@@ -1,0 +1,381 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\jprm_\documents\codeblocks\proyectofinal\main.cpp
+	<iostream>
+
+1537127490 source:c:\users\jprm_\documents\codeblocks\proyectofinal\src\rutas.cpp
+	"Rutas.h"
+
+1537127490 c:\users\jprm_\documents\codeblocks\proyectofinal\include\rutas.h
+	<iostream>
+
+1537125760 source:c:\users\jprm_\documents\codeblocks\proyectofinal\src\vuelo.cpp
+	"Vuelo.h"
+
+1537125760 c:\users\jprm_\documents\codeblocks\proyectofinal\include\vuelo.h
+	<iostream>
+
+1537126279 source:c:\users\jprm_\documents\codeblocks\proyectofinal\src\avion.cpp
+	"Avion.h"
+
+1537126076 c:\users\jprm_\documents\codeblocks\proyectofinal\include\avion.h
+	<iostream>
+
+1537126228 source:c:\users\jprm_\documents\codeblocks\proyectofinal\src\interfaz.cpp
+	"Interfaz.h"
+
+1537127490 c:\users\jprm_\documents\codeblocks\proyectofinal\include\interfaz.h
+	<iostream>
+
+1537583770 source:f:\metodo compra boleto\proyectofinal\src\avion.cpp
+	"Avion.h"
+
+1537590532 f:\metodo compra boleto\proyectofinal\include\avion.h
+	<iostream>
+	<sstream>
+
+1537579220 source:f:\metodo compra boleto\proyectofinal\src\gestionflota.cpp
+	"GestionFlota.h"
+
+1537579236 f:\metodo compra boleto\proyectofinal\include\gestionflota.h
+	<iostream>
+	"Avion.h"
+	<iostream>
+	<sstream>
+
+1537579202 source:f:\metodo compra boleto\proyectofinal\src\gestionruta.cpp
+	"GestionRuta.h"
+
+1537579202 f:\metodo compra boleto\proyectofinal\include\gestionruta.h
+	<iostream>
+	"Rutas.h"
+	<iostream>
+	<sstream>
+
+1537579452 source:f:\metodo compra boleto\proyectofinal\src\gestionvuelo.cpp
+	"GestionVuelo.h"
+
+1537579484 f:\metodo compra boleto\proyectofinal\include\gestionvuelo.h
+	<iostream>
+	"Vuelo.h"
+	<iostream>
+	<sstream>
+
+1537548216 source:f:\metodo compra boleto\proyectofinal\src\rutas.cpp
+	"Rutas.h"
+
+1537464768 f:\metodo compra boleto\proyectofinal\include\rutas.h
+	<iostream>
+	<sstream>
+
+1537583046 source:f:\metodo compra boleto\proyectofinal\src\vuelo.cpp
+	"Vuelo.h"
+	"Avion.h"
+	"Rutas.h"
+
+1537591364 f:\metodo compra boleto\proyectofinal\include\vuelo.h
+	<iostream>
+	<sstream>
+	"Rutas.h"
+	"Avion.h"
+
+1537128700 source:f:\metodo compra boleto\proyectofinal\src\cliente.cpp
+	"Cliente.h"
+
+1537314826 f:\metodo compra boleto\proyectofinal\include\cliente.h
+
+1537128714 source:f:\metodo compra boleto\proyectofinal\src\funcionario.cpp
+	"Funcionario.h"
+
+1537129728 f:\metodo compra boleto\proyectofinal\include\funcionario.h
+
+1537312504 source:f:\metodo compra boleto\proyectofinal\main.cpp
+	"Interfaz.h"
+	<iostream>
+
+1537314178 f:\metodo compra boleto\proyectofinal\include\interfaz.h
+	<iostream>
+	<sstream>
+	"windows.h"
+
+1537550512 source:f:\metodo compra boleto\proyectofinal\src\tiquete.cpp
+	"Tiquete.h"
+
+1537592146 f:\metodo compra boleto\proyectofinal\include\tiquete.h
+	<iostream>
+	<sstream>
+	"GestionVuelo.h"
+
+1537549182 source:f:\metodo compra boleto\proyectofinal\src\persona.cpp
+	"Persona.h"
+
+1537548794 f:\metodo compra boleto\proyectofinal\include\persona.h
+	<iostream>
+	<sstream>
+
+1537595090 source:f:\metodo compra boleto\proyectofinal\src\interfaz.cpp
+	"Interfaz.h"
+	"GestionFlota.h"
+	"GestionRuta.h"
+	"GestionVuelo.h"
+	"Persona.h"
+	<stdio.h>
+	<conio.h>
+
+1537312504 source:d:\metodo compra boleto\proyectofinal\main.cpp
+	"Interfaz.h"
+	<iostream>
+
+1537314178 d:\metodo compra boleto\proyectofinal\include\interfaz.h
+	<iostream>
+	<sstream>
+	"windows.h"
+
+1537330148 source:d:\metodo compra boleto\proyectofinal\src\avion.cpp
+	"Avion.h"
+
+1537289154 d:\metodo compra boleto\proyectofinal\include\avion.h
+	<iostream>
+	<sstream>
+
+1537128700 source:d:\metodo compra boleto\proyectofinal\src\cliente.cpp
+	"Cliente.h"
+
+1537314826 d:\metodo compra boleto\proyectofinal\include\cliente.h
+
+1537128714 source:d:\metodo compra boleto\proyectofinal\src\funcionario.cpp
+	"Funcionario.h"
+
+1537129728 d:\metodo compra boleto\proyectofinal\include\funcionario.h
+
+1537410260 source:d:\metodo compra boleto\proyectofinal\src\gestionflota.cpp
+	"GestionFlota.h"
+
+1537329544 d:\metodo compra boleto\proyectofinal\include\gestionflota.h
+	<iostream>
+	"Avion.h"
+	<iostream>
+	<sstream>
+
+1537411320 source:d:\metodo compra boleto\proyectofinal\src\gestionruta.cpp
+	"GestionRuta.h"
+
+1537411320 d:\metodo compra boleto\proyectofinal\include\gestionruta.h
+	<iostream>
+	"Rutas.h"
+	<iostream>
+	<sstream>
+
+1537409630 d:\metodo compra boleto\proyectofinal\include\rutas.h
+	<iostream>
+	<sstream>
+
+1537127742 source:d:\metodo compra boleto\proyectofinal\src\gestionvuelo.cpp
+	"GestionVuelo.h"
+
+1537129728 d:\metodo compra boleto\proyectofinal\include\gestionvuelo.h
+
+1537412652 source:d:\metodo compra boleto\proyectofinal\src\interfaz.cpp
+	"Interfaz.h"
+	"GestionFlota.h"
+	"GestionRuta.h"
+	<stdio.h>
+	<conio.h>
+
+1537128688 source:d:\metodo compra boleto\proyectofinal\src\persona.cpp
+	"Persona.h"
+
+1537133856 d:\metodo compra boleto\proyectofinal\include\persona.h
+	<iostream>
+
+1537409590 source:d:\metodo compra boleto\proyectofinal\src\rutas.cpp
+	"Rutas.h"
+
+1537128750 source:d:\metodo compra boleto\proyectofinal\src\tiquete.cpp
+	"Tiquete.h"
+
+1537128750 d:\metodo compra boleto\proyectofinal\include\tiquete.h
+
+1537292642 source:d:\metodo compra boleto\proyectofinal\src\vuelo.cpp
+	"Vuelo.h"
+
+1537291312 d:\metodo compra boleto\proyectofinal\include\vuelo.h
+	<iostream>
+	<sstream>
+	"Rutas.h"
+	"Avion.h"
+
+1537312504 source:c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\main.cpp
+	"Interfaz.h"
+	<iostream>
+
+1537314178 c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\include\interfaz.h
+	<iostream>
+	<sstream>
+	"windows.h"
+
+1537583770 source:c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\src\avion.cpp
+	"Avion.h"
+
+1537590532 c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\include\avion.h
+	<iostream>
+	<sstream>
+
+1537128700 source:c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\src\cliente.cpp
+	"Cliente.h"
+
+1537314826 c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\include\cliente.h
+
+1537579220 source:c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\src\gestionflota.cpp
+	"GestionFlota.h"
+
+1537579236 c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\include\gestionflota.h
+	<iostream>
+	"Avion.h"
+	<iostream>
+	<sstream>
+
+1537579202 source:c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\src\gestionruta.cpp
+	"GestionRuta.h"
+
+1537579202 c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\include\gestionruta.h
+	<iostream>
+	"Rutas.h"
+	<iostream>
+	<sstream>
+
+1537464768 c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\include\rutas.h
+	<iostream>
+	<sstream>
+
+1537579452 source:c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\src\gestionvuelo.cpp
+	"GestionVuelo.h"
+
+1537579484 c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\include\gestionvuelo.h
+	<iostream>
+	"Vuelo.h"
+	<iostream>
+	<sstream>
+
+1537591364 c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\include\vuelo.h
+	<iostream>
+	<sstream>
+	"Rutas.h"
+	"Avion.h"
+
+1537549182 source:c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\src\persona.cpp
+	"Persona.h"
+
+1537548794 c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\include\persona.h
+	<iostream>
+	<sstream>
+
+1537548216 source:c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\src\rutas.cpp
+	"Rutas.h"
+
+1537550512 source:c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\src\tiquete.cpp
+	"Tiquete.h"
+
+1537592146 c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\include\tiquete.h
+	<iostream>
+	<sstream>
+	"GestionVuelo.h"
+
+1537583046 source:c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\src\vuelo.cpp
+	"Vuelo.h"
+	"Avion.h"
+	"Rutas.h"
+
+1537648769 source:c:\users\jprm_\downloads\proyectofinal (1)\proyectofinal\src\interfaz.cpp
+	"Interfaz.h"
+	"GestionFlota.h"
+	"GestionRuta.h"
+	"GestionVuelo.h"
+	"Persona.h"
+	<stdio.h>
+	<conio.h>
+
+1537312504 source:c:\users\jprm_\downloads\proyectofinal\proyectofinal\main.cpp
+	"Interfaz.h"
+	<iostream>
+
+1537314178 c:\users\jprm_\downloads\proyectofinal\proyectofinal\include\interfaz.h
+	<iostream>
+	<sstream>
+	"windows.h"
+
+1537583770 source:c:\users\jprm_\downloads\proyectofinal\proyectofinal\src\avion.cpp
+	"Avion.h"
+
+1537590532 c:\users\jprm_\downloads\proyectofinal\proyectofinal\include\avion.h
+	<iostream>
+	<sstream>
+
+1537579220 source:c:\users\jprm_\downloads\proyectofinal\proyectofinal\src\gestionflota.cpp
+	"GestionFlota.h"
+
+1537579236 c:\users\jprm_\downloads\proyectofinal\proyectofinal\include\gestionflota.h
+	<iostream>
+	"Avion.h"
+	<iostream>
+	<sstream>
+
+1537579202 source:c:\users\jprm_\downloads\proyectofinal\proyectofinal\src\gestionruta.cpp
+	"GestionRuta.h"
+
+1537579202 c:\users\jprm_\downloads\proyectofinal\proyectofinal\include\gestionruta.h
+	<iostream>
+	"Rutas.h"
+	<iostream>
+	<sstream>
+
+1537464768 c:\users\jprm_\downloads\proyectofinal\proyectofinal\include\rutas.h
+	<iostream>
+	<sstream>
+
+1537743225 source:c:\users\jprm_\downloads\proyectofinal\proyectofinal\src\gestionvuelo.cpp
+	"GestionVuelo.h"
+
+1537579484 c:\users\jprm_\downloads\proyectofinal\proyectofinal\include\gestionvuelo.h
+	<iostream>
+	"Vuelo.h"
+	<iostream>
+	<sstream>
+
+1537591364 c:\users\jprm_\downloads\proyectofinal\proyectofinal\include\vuelo.h
+	<iostream>
+	<sstream>
+	"Rutas.h"
+	"Avion.h"
+
+1537648769 source:c:\users\jprm_\downloads\proyectofinal\proyectofinal\src\interfaz.cpp
+	"Interfaz.h"
+	"GestionFlota.h"
+	"GestionRuta.h"
+	"GestionVuelo.h"
+	"Persona.h"
+	<stdio.h>
+	<conio.h>
+
+1537548794 c:\users\jprm_\downloads\proyectofinal\proyectofinal\include\persona.h
+	<iostream>
+	<sstream>
+
+1537549182 source:c:\users\jprm_\downloads\proyectofinal\proyectofinal\src\persona.cpp
+	"Persona.h"
+
+1537548216 source:c:\users\jprm_\downloads\proyectofinal\proyectofinal\src\rutas.cpp
+	"Rutas.h"
+
+1537550512 source:c:\users\jprm_\downloads\proyectofinal\proyectofinal\src\tiquete.cpp
+	"Tiquete.h"
+
+1537592146 c:\users\jprm_\downloads\proyectofinal\proyectofinal\include\tiquete.h
+	<iostream>
+	<sstream>
+	"GestionVuelo.h"
+
+1537583046 source:c:\users\jprm_\downloads\proyectofinal\proyectofinal\src\vuelo.cpp
+	"Vuelo.h"
+	"Avion.h"
+	"Rutas.h"
+
